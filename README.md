@@ -1,7 +1,3 @@
-Perfect — here’s your **final polished README.md version** for **Vibenest**, rewritten to clearly mention that it’s an **MVP for a hackathon project**, while still keeping it inspiring, engaging, and presentation-ready 👇
-
----
-
 # 🌿 **Vibenest** — *Your Mind, Your Space*
 
 *A soulful creation by **Team ClarityX** · Built by **Stark***
