@@ -166,7 +166,3 @@ MIT License — because mental wellness should always be open and shared.
 ## 🪶 *"Heal, grow, and vibe — one connection at a time."*
 
 — **Team ClarityX × Stark**
-
----
-
-Would you like me to make this version formatted in **GitHub Markdown (with proper spacing, emoji alignment, and badges)** so you can directly copy it as a `README.md` file for your repository?
